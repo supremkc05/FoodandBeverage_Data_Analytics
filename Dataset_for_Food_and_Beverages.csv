@@ -1,0 +1,201 @@
+Shop_Id,Shop_Name,Shop_Location,Shop_Type,Shop_Website,Yearly_Sales,Average_Order_Value,Foot_Traffic,Marketing,Rating
+1,Nepal Cafe,Maharajgunj,Bistro,Yes,5821831,423,96,No,4.3
+2,Everest Cake Shop,Baneshwor,Grill,Yes,7381237,506,101,No,4.8
+3,Birat Grill,Bhaktapur,Restaurant,No,9057127,174,251,Yes,5.0
+4,Birat Grocery,Bhaktapur,Grocery,Yes,4254663,238,80,Yes,3.5
+5,Chitwan Grocery,Lalitpur,Grocery,No,3122248,60,218,Yes,2.0
+6,Pokhara Restaurant,Jawalakhel,Restaurant,No,4148829,298,100,Yes,3.5
+7,Kathmandu Essentials,Lalitpur,Convenience Store,Yes,4576166,324,97,Yes,3.0
+8,Bhairahawa Bakery,Lalitpur,Bakery,Yes,3632866,244,95,Yes,3.0
+9,Pokhara Convenience Store,Patan,Lounge,Yes,7898507,532,156,No,4.8
+10,Bhairahawa Restaurant,Thamel,Restaurant,Yes,7749794,572,138,Yes,4.8
+11,Lumbini Bistro,Baneshwor,Bistro,Yes,3875292,234,87,No,3.0
+12,Birat Essentials,Thamel,Convenience Store,Yes,9413007,155,264,Yes,5.0
+13,Dharan Supermarket,Maharajgunj,Grocery,Yes,2646773,81,220,No,2.0
+14,Dharan Cafe,Bhaktapur,Bistro,Yes,6058515,353,84,No,4.0
+15,Nepal Mini-Mart,Bhaktapur,Grocery,No,4126075,251,86,No,3.5
+16,Chitwan Bakery,Patan,Bakery,No,2533595,77,199,No,2.0
+17,Pokhara Bakery,Jawalakhel,Bakery,Yes,7940152,557,138,Yes,4.8
+18,Pokhara Supermarket,Lalitpur,Grocery,Yes,3725943,286,92,No,3.0
+19,Birat Cafe,Thamel,Bistro,Yes,3910475,243,99,No,3.0
+20,Annapurna Bistro,Jawalakhel,Bistro,Yes,8025449,506,139,Yes,4.8
+21,Pokhara Grocery,Lalitpur,Grocery,Yes,3096731,130,202,Yes,2.0
+22,Lumbini Essentials,Maharajgunj,Convenience Store,No,9127953,194,269,Yes,5.0
+23,Everest Bistro,Lalitpur,Bistro,No,4855744,294,84,Yes,3.0
+24,Pokhara Essentials,Lalitpur,Convenience Store,Yes,8055326,511,134,Yes,4.8
+25,Bhairahawa Cafe,Lalitpur,Bistro,Yes,5862855,404,82,Yes,4.3
+26,Chitwan Cafe,Patan,Bistro,No,6394357,382,118,Yes,4.5
+27,Nepal Cake Shop,Maharajgunj,Supermarket,Yes,9322379,220,245,Yes,5.0
+28,Birat Bakery,Bhaktapur,Bakery,No,3355044,121,207,Yes,2.0
+29,Birat Bistro,Bhaktapur,Bistro,No,6652089,503,112,No,4.8
+30,Everest Grill,Bhaktapur,Restaurant,Yes,3301990,107,215,No,2.0
+31,Pokhara Cafe,Jawalakhel,Bistro,Yes,7050040,479,102,Yes,4.8
+32,Kathmandu Grocery,Maharajgunj,Grocery,Yes,6799646,473,109,Yes,4.8
+33,Lumbini Restaurant,Patan,Restaurant,No,3812890,224,108,No,3.0
+34,Annapurna Grill,Patan,Restaurant,No,6900354,532,126,Yes,4.8
+35,Chitwan Convenience Store,Thamel,Supermarket,Yes,9172646,200,247,Yes,5.0
+36,Annapurna Mini-Mart,Jawalakhel,Grocery,Yes,7488386,508,100,No,4.3
+37,Nepal Grill,Lalitpur,Restaurant,No,8756952,216,253,Yes,5.0
+38,Dharan Grocery,Jawalakhel,Grocery,Yes,4545307,322,81,Yes,3.0
+39,Annapurna Eatery,Baneshwor,Bistro,No,6313680,386,94,Yes,4.0
+40,Kathmandu Supermarket,Thamel,Grocery,No,2530677,56,214,Yes,2.0
+41,Nepal Supermarket,Maharajgunj,Grocery,No,3564457,201,98,No,3.0
+42,Bhairahawa Essentials,Maharajgunj,Convenience Store,Yes,9297281,155,263,No,5.0
+43,Dharan Mini-Mart,Baneshwor,Grocery,No,4767264,285,96,No,3.0
+44,Dharan Cake Shop,Jawalakhel,Essentials,No,3173588,139,185,No,2.0
+45,Annapurna Patisserie,Bhaktapur,Bakery,No,4262013,223,87,Yes,3.5
+46,Birat Supermarket,Bhaktapur,Grocery,Yes,9302583,229,233,Yes,5.0
+47,Pokhara Grill,Baneshwor,Restaurant,Yes,7802055,503,133,Yes,4.8
+48,Kathmandu Diner,Maharajgunj,Restaurant,No,4099237,212,79,No,3.5
+49,Everest Supermarket,Jawalakhel,Grocery,No,4495385,234,98,No,3.5
+50,Bhairahawa Eatery,Jawalakhel,Bistro,Yes,8487797,521,144,Yes,4.8
+51,Nepal Quick Stop,Baneshwor,Grill,Yes,6658353,467,115,Yes,4.8
+52,Dharan Bakery,Bhaktapur,Bakery,Yes,8801196,218,232,No,5.0
+53,Birat Convenience Store,Lalitpur,Lounge,Yes,7873086,501,145,No,4.8
+54,Birat Eatery,Lalitpur,Bistro,No,2941407,137,204,No,2.0
+55,Kathmandu Restaurant,Bhaktapur,Restaurant,No,7617949,540,146,No,4.8
+56,Kathmandu Cafe,Patan,Bistro,Yes,3939783,211,108,Yes,3.0
+57,Everest Grocery,Patan,Grocery,Yes,6709177,475,112,No,4.8
+58,Everest Cafe,Baneshwor,Bistro,No,8103321,570,151,Yes,4.8
+59,Bhairahawa Grocery,Patan,Grocery,No,4556837,328,63,No,3.0
+60,Bhairahawa Quick Stop,Baneshwor,Lounge,No,8092933,501,141,Yes,4.8
+61,Annapurna Essentials,Thamel,Convenience Store,Yes,8525033,195,256,Yes,5.0
+62,Bhairahawa Bistro,Baneshwor,Bistro,Yes,4474149,292,98,No,3.5
+63,Annapurna Diner,Bhaktapur,Restaurant,No,4814446,317,68,No,3.0
+64,Nepal Restaurant,Baneshwor,Restaurant,Yes,4277141,289,95,Yes,3.5
+65,Birat Cake Shop,Baneshwor,Bistro,No,5652795,390,111,No,4.0
+66,Lumbini Cafe,Thamel,Bistro,No,8653623,214,263,No,5.0
+67,Pokhara Mini-Mart,Jawalakhel,Grocery,No,6774566,480,137,No,4.8
+68,Dharan Grill,Lalitpur,Restaurant,No,2984102,129,190,No,2.0
+69,Everest Essentials,Thamel,Convenience Store,No,6058462,412,92,Yes,4.3
+70,Bhairahawa Supermarket,Baneshwor,Grocery,No,8481891,574,133,No,4.8
+71,Kathmandu Bakery,Patan,Bakery,Yes,8505656,165,269,No,5.0
+72,Annapurna Cake Shop,Patan,Bistro,No,5761502,417,82,Yes,4.3
+73,Annapurna Grocery,Patan,Grocery,No,3123888,93,212,No,2.0
+74,Pokhara Bistro,Baneshwor,Bistro,Yes,7584838,524,142,No,4.8
+75,Birat Diner,Lalitpur,Restaurant,No,5675891,365,104,No,4.0
+76,Kathmandu Mini-Mart,Jawalakhel,Grocery,No,6582222,456,109,No,4.8
+77,Everest Patisserie,Bhaktapur,Bakery,Yes,7872580,591,135,No,4.8
+78,Nepal Grocery,Maharajgunj,Grocery,No,9415371,152,266,Yes,5.0
+79,Chitwan Restaurant,Maharajgunj,Restaurant,No,9194749,174,239,No,5.0
+80,Everest Convenience Store,Thamel,Restaurant,Yes,7412417,500,111,No,4.8
+81,Kathmandu Patisserie,Jawalakhel,Bakery,No,4485441,284,92,No,3.5
+82,Nepal Diner,Lalitpur,Restaurant,No,5043600,339,86,No,3.0
+83,Birat Restaurant,Lalitpur,Restaurant,No,8234604,563,140,Yes,4.8
+84,Chitwan Eatery,Maharajgunj,Bistro,No,9353117,193,243,Yes,5.0
+85,Dharan Quick Stop,Lalitpur,Bakery,No,4394446,234,110,Yes,3.5
+86,Dharan Patisserie,Patan,Bakery,Yes,8367616,576,132,Yes,4.8
+87,Lumbini Bakery,Baneshwor,Bakery,No,8106434,565,161,Yes,4.8
+88,Pokhara Patisserie,Bhaktapur,Bakery,Yes,5249750,280,71,Yes,3.0
+89,Nepal Convenience Store,Bhaktapur,Convenience Store,No,3231138,71,202,No,2.0
+90,Everest Eatery,Baneshwor,Bistro,Yes,4432887,261,74,No,3.5
+91,Lumbini Eatery,Jawalakhel,Bistro,No,9465003,160,260,Yes,5.0
+92,Dharan Convenience Store,Maharajgunj,Bistro,No,6443492,434,112,No,4.8
+93,Chitwan Supermarket,Thamel,Grocery,No,4640444,301,79,No,3.0
+94,Birat Quick Stop,Thamel,Grocery,Yes,9071926,161,239,No,5.0
+95,Nepal Eatery,Thamel,Bistro,Yes,3570109,285,102,Yes,3.0
+96,Kathmandu Bistro,Thamel,Bistro,No,5352435,308,88,Yes,3.0
+97,Chitwan Diner,Thamel,Restaurant,No,3576012,222,75,No,3.0
+98,Bhairahawa Patisserie,Patan,Bakery,No,3041870,139,212,No,2.0
+99,Lumbini Diner,Patan,Restaurant,No,2697930,88,214,No,2.0
+100,Annapurna Cafe,Patan,Bistro,No,5265481,347,71,Yes,3.0
+101,Nepal Bistro,Jawalakhel,Bistro,Yes,3724181,266,80,No,3.0
+102,Kathmandu Cake Shop,Baneshwor,Café,No,4859338,310,68,Yes,3.0
+103,Chitwan Patisserie,Jawalakhel,Bakery,Yes,5753011,369,104,No,4.0
+104,Chitwan Grill,Patan,Restaurant,Yes,8712286,220,245,No,5.0
+105,Lumbini Cake Shop,Patan,Convenience Store,Yes,2904500,111,213,No,2.0
+106,Everest Bakery,Thamel,Bakery,Yes,5738402,396,100,Yes,4.0
+107,Nepal Bakery,Maharajgunj,Bakery,Yes,7247655,540,121,No,4.8
+108,Annapurna Restaurant,Jawalakhel,Restaurant,Yes,8009859,530,166,No,4.8
+109,Chitwan Mini-Mart,Jawalakhel,Grocery,Yes,4538331,348,94,Yes,3.0
+110,Birat Mini-Mart,Maharajgunj,Grocery,Yes,6216923,353,91,No,4.0
+111,Pokhara Eatery,Lalitpur,Bistro,No,6872456,470,104,Yes,4.8
+112,Annapurna Convenience Store,Patan,Café,No,5419879,257,97,No,3.0
+113,Dharan Restaurant,Jawalakhel,Restaurant,Yes,6266544,431,103,Yes,4.8
+114,Lumbini Grocery,Jawalakhel,Grocery,Yes,5389832,253,85,No,3.0
+115,Bhairahawa Convenience Store,Lalitpur,Grocery,No,9489331,212,257,No,5.0
+116,Dharan Bistro,Lalitpur,Bistro,Yes,8631726,188,236,No,5.0
+117,Pokhara Cake Shop,Lalitpur,Bakery,Yes,3818927,275,83,Yes,3.0
+118,Annapurna Bakery,Jawalakhel,Bakery,Yes,3436104,65,197,Yes,2.0
+119,Bhairahawa Cake Shop,Maharajgunj,Convenience Store,Yes,3113778,93,195,No,2.0
+120,Chitwan Bistro,Thamel,Bistro,No,4955650,253,68,No,3.0
+121,Lumbini Quick Stop,Patan,Bakery,Yes,4458783,245,81,No,3.5
+122,Kathmandu Grill,Bhaktapur,Restaurant,No,6042191,449,95,Yes,4.3
+123,Kathmandu Quick Stop,Maharajgunj,Restaurant,Yes,6571839,474,123,Yes,4.8
+124,Pokhara Quick Stop,Jawalakhel,Bistro,Yes,6288847,375,104,No,4.5
+125,Lumbini Mini-Mart,Bhaktapur,Grocery,No,7087168,459,118,No,4.8
+126,Pokhara Diner,Patan,Restaurant,Yes,6013988,414,86,Yes,4.3
+127,Annapurna Quick Stop,Bhaktapur,Lounge,Yes,8168096,517,147,No,4.8
+128,Everest Diner,Bhaktapur,Restaurant,No,8453066,504,143,No,4.8
+129,Dharan Eatery,Baneshwor,Bistro,No,2942895,117,207,Yes,2.0
+130,Bhairahawa Grill,Maharajgunj,Restaurant,Yes,6770341,460,121,No,4.8
+131,Birat Patisserie,Maharajgunj,Bakery,No,6496106,379,113,No,4.5
+132,Lumbini Convenience Store,Thamel,Café,Yes,4846068,311,60,Yes,3.0
+133,Lumbini Grill,Thamel,Restaurant,Yes,8548258,157,237,No,5.0
+134,Dharan Diner,Thamel,Restaurant,Yes,5000509,346,98,Yes,3.0
+135,Everest Quick Stop,Jawalakhel,Bakery,Yes,4087371,229,71,Yes,3.5
+136,Bhairahawa Mini-Mart,Lalitpur,Grocery,Yes,7911818,574,143,Yes,4.8
+137,Kathmandu Eatery,Lalitpur,Bistro,Yes,8531317,193,254,No,5.0
+138,Chitwan Quick Stop,Lalitpur,Lounge,Yes,8001782,523,141,Yes,4.8
+139,Lumbini Patisserie,Maharajgunj,Bakery,No,2898757,55,185,Yes,2.0
+140,Chitwan Essentials,Patan,Convenience Store,Yes,3513470,246,91,Yes,3.0
+141,Nepal Patisserie,Patan,Bakery,Yes,7774928,599,152,Yes,4.8
+142,Kathmandu Convenience Store,Patan,Grocery,No,8826530,234,266,Yes,5.0
+143,Lumbini Supermarket,Thamel,Grocery,No,3780623,200,92,Yes,3.0
+144,Chitwan Cake Shop,Maharajgunj,Grocery,Yes,8523406,163,231,Yes,5.0
+145,Everest Restaurant,Jawalakhel,Restaurant,Yes,9124078,184,263,No,5.0
+146,Dharan Essentials,Bhaktapur,Convenience Store,Yes,8815227,202,253,Yes,5.0
+147,Nepal Essentials,Jawalakhel,Convenience Store,No,9386234,237,269,Yes,5.0
+148,Bhairahawa Diner,Maharajgunj,Restaurant,No,5971191,415,111,No,4.3
+149,Annapurna Supermarket,Bhaktapur,Grocery,No,7062629,533,137,No,4.8
+150,Everest Mini-Mart,Lalitpur,Grocery,Yes,6935359,538,136,Yes,4.8
+151,Nepal Cafe,Thamel,Bistro,Yes,7034571,525,103,No,4.8
+152,Everest Cake Shop,Patan,Convenience Store,Yes,2651860,144,200,No,2.0
+153,Birat Grill,Maharajgunj,Restaurant,Yes,3346427,70,220,Yes,2.0
+154,Birat Grocery,Jawalakhel,Grocery,Yes,8555464,211,264,Yes,5.0
+155,Chitwan Grocery,Patan,Grocery,No,3224627,144,219,No,2.0
+156,Pokhara Restaurant,Bhaktapur,Restaurant,Yes,8998621,248,270,No,5.0
+157,Kathmandu Essentials,Bhaktapur,Convenience Store,No,6598640,502,130,No,4.8
+158,Bhairahawa Bakery,Bhaktapur,Bakery,No,8467356,595,152,No,4.8
+159,Pokhara Convenience Store,Thamel,Café,Yes,5146042,322,98,Yes,3.0
+160,Bhairahawa Restaurant,Baneshwor,Restaurant,Yes,5623822,416,101,Yes,4.3
+161,Lumbini Bistro,Maharajgunj,Bistro,Yes,4882174,314,73,Yes,3.0
+162,Birat Essentials,Baneshwor,Convenience Store,No,3164096,59,218,Yes,2.0
+163,Dharan Supermarket,Bhaktapur,Grocery,Yes,4290549,245,77,Yes,3.5
+164,Dharan Cafe,Maharajgunj,Bistro,Yes,8223137,586,132,Yes,4.8
+165,Nepal Mini-Mart,Lalitpur,Grocery,Yes,8636498,173,232,No,5.0
+166,Chitwan Bakery,Jawalakhel,Bakery,Yes,8591500,178,268,Yes,5.0
+167,Pokhara Bakery,Bhaktapur,Bakery,Yes,2609947,76,197,Yes,2.0
+168,Pokhara Supermarket,Baneshwor,Grocery,No,6674133,494,127,No,4.8
+169,Birat Cafe,Patan,Bistro,No,5451452,254,69,No,3.0
+170,Annapurna Bistro,Maharajgunj,Bistro,Yes,8324338,548,164,No,4.8
+171,Pokhara Grocery,Lalitpur,Grocery,Yes,4157588,267,90,Yes,3.5
+172,Lumbini Essentials,Patan,Convenience Store,No,8390174,594,144,Yes,4.8
+173,Everest Bistro,Lalitpur,Bistro,No,2532499,60,211,Yes,2.0
+174,Pokhara Essentials,Lalitpur,Convenience Store,Yes,9141879,177,260,No,5.0
+175,Bhairahawa Cafe,Bhaktapur,Bistro,Yes,9454131,239,262,Yes,5.0
+176,Chitwan Cafe,Baneshwor,Bistro,Yes,7626118,520,170,Yes,4.8
+177,Nepal Cake Shop,Bhaktapur,Convenience Store,Yes,2937052,106,193,No,2.0
+178,Birat Bakery,Maharajgunj,Bakery,No,2996189,115,184,Yes,2.0
+179,Birat Bistro,Bhaktapur,Bistro,No,3844936,295,93,Yes,3.0
+180,Everest Grill,Maharajgunj,Restaurant,Yes,3177731,59,203,No,2.0
+181,Pokhara Cafe,Baneshwor,Bistro,Yes,7428759,543,128,No,4.8
+182,Kathmandu Grocery,Maharajgunj,Grocery,No,8753828,221,244,Yes,5.0
+183,Lumbini Restaurant,Baneshwor,Restaurant,No,8260232,546,166,No,4.8
+184,Annapurna Grill,Bhaktapur,Restaurant,Yes,7218406,534,120,Yes,4.8
+185,Chitwan Convenience Store,Lalitpur,Restaurant,Yes,6823646,508,101,Yes,4.8
+186,Annapurna Mini-Mart,Lalitpur,Grocery,No,4476338,283,103,Yes,3.5
+187,Nepal Grill,Thamel,Restaurant,Yes,9125628,150,269,Yes,5.0
+188,Dharan Grocery,Thamel,Grocery,Yes,7303835,459,125,No,4.8
+189,Annapurna Eatery,Patan,Bistro,Yes,5016471,290,88,No,3.0
+190,Kathmandu Supermarket,Baneshwor,Grocery,Yes,5440051,261,89,No,3.0
+191,Nepal Supermarket,Jawalakhel,Grocery,No,3618000,246,86,Yes,3.0
+192,Bhairahawa Essentials,Bhaktapur,Convenience Store,No,9054183,245,237,Yes,5.0
+193,Dharan Mini-Mart,Baneshwor,Grocery,No,8320017,573,145,No,4.8
+194,Dharan Cake Shop,Maharajgunj,Lounge,Yes,7766315,514,154,Yes,4.8
+195,Annapurna Patisserie,Thamel,Bakery,Yes,6362537,428,97,No,4.3
+196,Birat Supermarket,Bhaktapur,Grocery,No,6304928,407,88,No,4.3
+197,Pokhara Grill,Lalitpur,Restaurant,Yes,4569058,304,81,No,3.0
+198,Kathmandu Diner,Thamel,Restaurant,Yes,9397838,244,242,Yes,5.0
+199,Everest Supermarket,Patan,Grocery,No,6897081,458,109,Yes,4.8
+200,Bhairahawa Eatery,Maharajgunj,Bistro,No,7545356,509,142,No,4.8
