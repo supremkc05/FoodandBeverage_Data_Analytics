@@ -20,3 +20,16 @@ This project analyzes a dataset of food and beverage shops, performing data clea
 - `scikit-learn`
 
 ---
+## 📌 Project Workflow
+
+### 1️⃣ Data Cleaning
+
+- Sorted data by `Shop_Name`.
+- Dropped unnecessary columns (`Shop_Id`).
+- Reset dataframe index.
+- Standardized `Shop_Type` values.
+- Mapped `Shop_Website` and `Marketing` to binary (0 = No, 1 = Yes).
+- Categorized `Rating` into `Low`, `Medium`, `High`.
+
+---
+
