@@ -56,3 +56,33 @@ This project analyzes a dataset of food and beverage shops, performing data clea
 - Line plot of rating and sales relationship.
 
 ---
+### 3️⃣ Predictive Modeling
+
+- **Target:** `Yearly_Sales`
+- **Features:** Shop type (encoded), website, marketing, foot traffic, rating.
+- **Model:** Random Forest Regressor
+- **Validation:** Train-test split (80-20), cross-validation
+- **Metrics:** R² score, Mean Absolute Error
+
+---
+
+## 📝 Results Summary
+
+- **R² Score:** Model performance metric indicating variance explained.
+- **MAE:** Average prediction error in sales values.
+- **Insights:** Shops with marketing, website presence, higher foot traffic, and better ratings generally have higher sales.
+
+---
+
+## 🚀 How to Run
+
+1️⃣ Clone/download the notebook.  
+2️⃣ Ensure dependencies are installed:
+```bash
+pip install pandas matplotlib seaborn plotly scikit-learn
+```
+3️⃣ Run the notebook:
+```bash
+jupyter notebook ITS69304_SupremKhatri_IndividualAssignment.ipynb
+```
+4️⃣ Make sure `Dataset_for_Food_and_Beverages.csv` is in the same directory.
