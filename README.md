@@ -32,4 +32,27 @@ This project analyzes a dataset of food and beverage shops, performing data clea
 - Categorized `Rating` into `Low`, `Medium`, `High`.
 
 ---
+### 2️⃣ Exploratory Data Analysis & Visualizations
 
+✅ **Shop Type Distribution**  
+- Pie chart of shop type counts.
+
+✅ **Foot Traffic by Shop Type**  
+- Histogram showing average foot traffic for each shop type.
+
+✅ **Rating by Shop Type**  
+- Line plot of mean ratings by shop type.
+
+✅ **Marketing vs Yearly Sales**  
+- Scatter plot of marketing presence vs sales.
+
+✅ **Website vs Yearly Sales**  
+- Scatter plot of website presence vs sales.
+
+✅ **Foot Traffic vs Yearly Sales**  
+- Scatter plot analyzing correlation.
+
+✅ **Rating vs Yearly Sales**  
+- Line plot of rating and sales relationship.
+
+---
