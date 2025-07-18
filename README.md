@@ -13,11 +13,13 @@ This project analyzes a dataset of food and beverage shops, performing data clea
 ## 🛠️ Tools & Libraries
 
 - Python 3.x
-- `pandas`
-- `matplotlib`
-- `seaborn`
-- `plotly`
-- `scikit-learn`
+- `pandas` - Data manipulation and analysis
+- `matplotlib` - Static plotting
+- `seaborn` - Statistical data visualization
+- `plotly` - Interactive visualizations
+- `scikit-learn` - Machine learning
+- `streamlit` - Web dashboard framework
+- `numpy` - Numerical computing
 
 ---
 ## 📌 Project Workflow
@@ -76,6 +78,7 @@ This project analyzes a dataset of food and beverage shops, performing data clea
 
 ## 🚀 How to Run
 
+### Option 1: Jupyter Notebook
 1️⃣ Clone/download the notebook.  
 2️⃣ Ensure dependencies are installed:
 ```bash
@@ -86,3 +89,25 @@ pip install pandas matplotlib seaborn plotly scikit-learn
 jupyter notebook ITS69304_SupremKhatri_IndividualAssignment.ipynb
 ```
 4️⃣ Make sure `Dataset_for_Food_and_Beverages.csv` is in the same directory.
+
+### Option 2: Interactive Streamlit Dashboard
+1️⃣ Install required dependencies:
+```bash
+pip install -r requirements.txt
+```
+2️⃣ Run the Streamlit dashboard:
+```bash
+streamlit run dashboard.py
+```
+3️⃣ Open your browser to the provided local URL (usually http://localhost:8501)
+
+---
+
+## 🎯 Dashboard Features
+
+The Streamlit dashboard includes:
+- **📈 Overview Page:** Key business metrics and summary statistics
+- **🔍 Data Explorer:** Interactive data filtering and exploration
+- **📊 Visualizations:** Interactive charts and plots
+- **🤖 Machine Learning:** Model performance and feature importance
+- **🔮 Predictions:** Real-time predictions for new shop scenarios
