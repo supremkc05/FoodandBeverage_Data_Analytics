@@ -111,3 +111,5 @@ The Streamlit dashboard includes:
 - **📊 Visualizations:** Interactive charts and plots
 - **🤖 Machine Learning:** Model performance and feature importance
 - **🔮 Predictions:** Real-time predictions for new shop scenarios
+
+- update soon with deployment
