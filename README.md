@@ -112,4 +112,4 @@ The Streamlit dashboard includes:
 - **🤖 Machine Learning:** Model performance and feature importance
 - **🔮 Predictions:** Real-time predictions for new shop scenarios
 
-- update soon with deployment
+
